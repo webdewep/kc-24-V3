@@ -1,0 +1,53 @@
+{
+  "cases": [
+    {
+      "key": "clinic",
+      "title": "Генеральная уборка поликлиники",
+      "text": "Очистили и обработали поверхности в помещениях поликлиники, включая процедурный кабинет.",
+      "image": "assets/work-clinic-team.webp",
+      "url": "https://xn----24-g4depvaepm1ab2coe.xn--80adxhks/nashi-raboty/generalnaja-uborka-i-dezinfekcija-medicinskoj-polikliniki-v-moskve-kliningservis-24/",
+      "image_url": "https://xn----24-g4depvaepm1ab2coe.xn--80adxhks/wp-content/uploads/2025/12/dezinfekciya-medicinskogo-oborudovaniya-v-poliklinike-moskva.webp"
+    },
+    {
+      "key": "office",
+      "title": "Генеральная уборка офиса",
+      "text": "Очистили рабочие места, жалюзи и стеллажи с документами. Вымыли полы и плинтусы.",
+      "image": "assets/work-office.webp",
+      "url": "https://xn----24-g4depvaepm1ab2coe.xn--80adxhks/nashi-raboty/%d0%b3%d0%b5%d0%bd%d0%b5%d1%80%d0%b0%d0%bb%d1%8c%d0%bd%d0%b0%d1%8f-%d1%83%d0%b1%d0%be%d1%80%d0%ba%d0%b0-%d0%be%d1%84%d0%b8%d1%81%d0%be%d0%b2-%d0%b2-%d0%bc%d0%be%d1%81%d0%ba%d0%b2%d0%b5/",
+      "image_url": "https://xn----24-g4depvaepm1ab2coe.xn--80adxhks/wp-content/uploads/2026/09/photo_1_2026-09-12_12-00-17.webp"
+    },
+    {
+      "key": "warehouse",
+      "title": "Склад после ремонта",
+      "text": "После ремонта на объекте остались строительная пыль, мусор и следы клея. В кейсе описан порядок очистки помещения.",
+      "image": "assets/work-warehouse.webp",
+      "url": "https://xn----24-g4depvaepm1ab2coe.xn--80adxhks/nashi-raboty/uborka-skladskogo-pomeshhenija/",
+      "image_url": "https://xn----24-g4depvaepm1ab2coe.xn--80adxhks/wp-content/uploads/2025/02/koridor-posle-remonta-do-uborki-moskva.jpg"
+    },
+    {
+      "key": "mall",
+      "title": "Торговый центр после ремонта",
+      "text": "На объекте требовалось убрать остатки стройматериалов, отмыть плитку и очистить стеклянные перегородки.",
+      "image": "assets/work-mall.webp",
+      "url": "https://xn----24-g4depvaepm1ab2coe.xn--80adxhks/nashi-raboty/professionalnaja-uborka-torgovogo-centra-v-moskve/",
+      "image_url": "https://xn----24-g4depvaepm1ab2coe.xn--80adxhks/wp-content/uploads/2025/02/uborka-ofisa-posle-remonta-torgovogo-centra-moskva.jpg"
+    },
+    {
+      "key": "restaurant",
+      "title": "Ресторан после ремонта",
+      "text": "Подготовили ресторан к открытию. Убрали строительную пыль и очистили поверхности в зале.",
+      "image": "assets/work-restaurant.webp",
+      "url": "https://xn----24-g4depvaepm1ab2coe.xn--80adxhks/nashi-raboty/%d1%83%d0%b1%d0%be%d1%80%d0%ba%d0%b0-%d1%80%d0%b5%d1%81%d1%82%d0%be%d1%80%d0%b0%d0%bd%d0%be%d0%b2-%d0%bf%d0%be%d1%81%d0%bb%d0%b5-%d1%80%d0%b5%d0%bc%d0%be%d0%bd%d1%82%d0%b0/",
+      "image_url": "https://xn----24-g4depvaepm1ab2coe.xn--80adxhks/wp-content/uploads/2026/09/photo_5_2026-09-11_15-10-08.webp"
+    },
+    {
+      "key": "cottage",
+      "title": "Капитальная уборка коттеджа",
+      "text": "Очистили поверхности и труднодоступные зоны загородного дома, отмыли плитку и сантехнику.",
+      "image": "assets/work-cottage.webp",
+      "url": "https://xn----24-g4depvaepm1ab2coe.xn--80adxhks/nashi-raboty/%d0%ba%d0%b0%d0%bf%d0%b8%d1%82%d0%b0%d0%bb%d1%8c%d0%bd%d0%b0%d1%8f-%d1%83%d0%b1%d0%be%d1%80%d0%ba%d0%b0-%d0%ba%d0%be%d1%82%d1%82%d0%b5%d0%b4%d0%b6%d0%b5%d0%b9/",
+      "image_url": "https://xn----24-g4depvaepm1ab2coe.xn--80adxhks/wp-content/uploads/2026/09/photo_2_2026-09-11_15-33-37.webp"
+    }
+  ],
+  "note": "Фотографии из портфолио компании. Использовано по одному снимку на объект."
+}
